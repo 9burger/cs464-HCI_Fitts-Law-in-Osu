@@ -1,4 +1,4 @@
-# CS464-Fitts's Law in Osu README
+# CS464 - Fitts's Law in Osu - README
 
 ## Maxwell Nieberger
 
