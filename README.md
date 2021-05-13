@@ -9,5 +9,5 @@ It is a study using publicly available osu replay files and a python parsing lib
 ### Links
 * Website: https://www.cs.colostate.edu/~mxnieb/#/
 * Overview Video: https://youtu.be/Yt6PPkTDsWg
-* Presentation Video: 
+* Presentation Video: https://youtu.be/nSnzRTwFkDQ
 * GitHub Repository: https://github.com/9burger/cs464-HCI_Fitts-Law-in-Osu
