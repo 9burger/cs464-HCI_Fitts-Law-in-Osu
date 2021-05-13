@@ -1,0 +1,74 @@
+PS C:\Users\MxNie\Documents\cs464-HCI>  c:; cd 'c:\Users\MxNie\Documents\cs464-HCI'; & 'C:\Users\MxNie\AppData\Local\Programs\Python\Python39\python.exe' 'c:\Users\MxNie\.vscode\extensions\ms-python.python-2021.4.765268190\pythonFiles\lib\python\debugpy\launcher' '62887' '--' 'c:\Users\MxNie\Documents\cs464-HCI\parseTimingData.py' 
+HR 50: 101.5  Radius: 25.279999999999994
+counted 1 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 1 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 11 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+counted 3 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 11 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 3 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+counted 3 missed notes
+DT - Excluded
+HR 50: 101.5  Radius: 25.279999999999994
+counted 3 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 3 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+DT - Excluded
+HR 50: 101.5  Radius: 25.279999999999994
+counted 3 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 2 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+counted 6 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 1 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 1 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 1 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+counted 2 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+counted 2 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+counted 9 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+counted 3 missed notes
+DT - Excluded
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+counted 1 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+DT - Excluded
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+DT - Excluded
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+50: 129.5  Radius: 31.999999999999996
+counted 283 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+DT - Excluded
+DT - Excluded
+HR 50: 101.5  Radius: 25.279999999999994
+counted 8 missed notes
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+HR 50: 101.5  Radius: 25.279999999999994
+counted 7 missed notes
